@@ -37,7 +37,7 @@ fornecido por instituição de ensino superior reconhecida pelo MEC.
 
 ### Conteúdo
 
-*CONHECIMENTOS GERAIS*
+<h3>CONHECIMENTOS GERAIS</h3>
 
 1 POLÍTICAS PÚBLICAS 
 - 1.1 Introdução às políticas públicas: conceitos e tipologias.
@@ -77,9 +77,9 @@ fornecido por instituição de ensino superior reconhecida pelo MEC.
 - 6.4 Noções de orçamento público: Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA).
 - 6.5 Federalismo fiscal no Brasil; Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000).
 
-*CONHECIMENTOS ESPECÍFICOS*
+<h3>CONHECIMENTOS ESPECÍFICOS</h3>
 
-<h3 style="background-color: green;">EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA</h3>
+*EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA*
 
 1 PLANEJAMENTO E GESTÃO ESTRATÉGICA: conceitos, princípios, etapas, níveis, métodos e ferramentas. 
 - 1.1 Balanced Scorecard (BSC).
@@ -124,7 +124,7 @@ fornecido por instituição de ensino superior reconhecida pelo MEC.
 9 ORGANIZAÇÃO SISTÊMICA DA ADMINISTRAÇÃO PÚBLICA FEDERAL. 
 - 9.1 Sistemas estruturantes e estruturadores da administração pública federal.
 
-_EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS_
+*EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS*
 
 1 O PROCESSO DE ELABORAÇÃO DE POLÍTICAS. 
 - 1.1 O papel do Estado.
@@ -150,7 +150,7 @@ _EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS_
 - 5.2 Estratégia Nacional de Governo Digital - Decreto 11.260/22 e suas alterações; Decreto nº 10.332/2020.
 - 5.3 Estratégia Brasileira para a Transformação Digital (Decreto 9319/18 e suas alterações).
 
-_EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO_
+*EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO*
 
 1 SEGURANÇA DA INFORMAÇÃO. 
 - 1.1 Princípios em segurança da informação.
@@ -187,7 +187,7 @@ _EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO_
 - 4.5 Redes móveis.
 - 4.6 Princípios da Gerência de Redes.
 
-_EIXO TEMÁTICO 4 – DESENVOLVIMENTO DE SOFTWARE_
+*EIXO TEMÁTICO 4 – DESENVOLVIMENTO DE SOFTWARE*
 
 1 PROGRAMAÇÃO E ESTRUTURAS DE DADOS. 
 - 1.1 Linguagens de programação Python e Java.
@@ -231,7 +231,7 @@ NoSQL: chave valor, chave valor orientado à documentos, família de colunas, gr
 - 6.1 Conceitos básicos.
 - 6.2 Workflow e gerenciamento eletrônico de documentos.
 
-_EIXO TEMÁTICO 5 – APOIO À DECISÃO, INTELIGÊNCIA ARTIFICIAL E MÉTODOS QUANTITATIVOS_
+*EIXO TEMÁTICO 5 – APOIO À DECISÃO, INTELIGÊNCIA ARTIFICIAL E MÉTODOS QUANTITATIVOS*
 
 1 BIG DATA. 
 - 1.1 Definição de Big Data.

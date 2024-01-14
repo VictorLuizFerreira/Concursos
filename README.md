@@ -1,6 +1,5 @@
 # Concursos
 Aqui é onde eu irei armazenar todos os meus planos de estudos para concursos
-<br>
 Concurso CNU
 
 - 1˚ Foco nas específicas que já conheço(maior peso); Fazer resumos; Fazer questões

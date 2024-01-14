@@ -79,7 +79,7 @@ fornecido por instituição de ensino superior reconhecida pelo MEC.
 
 *CONHECIMENTOS ESPECÍFICOS*
 
-_EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA_
+<h3 style="color: purple;">EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA</h3>
 
 1 PLANEJAMENTO E GESTÃO ESTRATÉGICA: conceitos, princípios, etapas, níveis, métodos e ferramentas. 
 - 1.1 Balanced Scorecard (BSC).
@@ -150,7 +150,7 @@ _EIXO TEMÁTICO 2 – POLÍTICAS PÚBLICAS_
 - 5.2 Estratégia Nacional de Governo Digital - Decreto 11.260/22 e suas alterações; Decreto nº 10.332/2020.
 - 5.3 Estratégia Brasileira para a Transformação Digital (Decreto 9319/18 e suas alterações).
 
-<h1>EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO</h1>
+_EIXO TEMÁTICO 3 – GERÊNCIA E SUPORTE DA TECNOLOGIA DA INFORMAÇÃO_
 
 1 SEGURANÇA DA INFORMAÇÃO. 
 - 1.1 Princípios em segurança da informação.

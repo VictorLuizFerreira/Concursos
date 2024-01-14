@@ -79,7 +79,7 @@ fornecido por instituição de ensino superior reconhecida pelo MEC.
 
 *CONHECIMENTOS ESPECÍFICOS*
 
-<h3 style="color: purple;">EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA</h3>
+<h3 style="color: #434343;">EIXO TEMÁTICO 1 – GESTÃO GOVERNAMENTAL E GOVERNANÇA PÚBLICA</h3>
 
 1 PLANEJAMENTO E GESTÃO ESTRATÉGICA: conceitos, princípios, etapas, níveis, métodos e ferramentas. 
 - 1.1 Balanced Scorecard (BSC).

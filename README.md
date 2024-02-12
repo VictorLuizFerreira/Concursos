@@ -1,9 +1,38 @@
-# Concursos
-Aqui é onde eu irei armazenar todos os meus planos de estudos para concursos
+# Aqui é onde eu irei armazenar todos os meus planos de estudos para concursos
 
-## Concurso CNU
+## Concursos
+- BACEN -> data de inscrição: 22 de janeiro a 20 de fevereiro de 2024 (22/01/2024 a 20/02/2024)
+        -> data da prova: 19 de maio de 2024 (19/05/2024)
+        -> valor: R$ 150,00
+        -> banca: cebraspe(cespe)
+        -> site: http://www.cebraspe.org.br/concursos/bcb_24
+        -> informações: 50 vagas para TI;
+        -> disciplinas:
+           Conhecimentos básicos:
+           * Língua Portuguesa: 25 questões;
+           * Noções de Lógica e Estatística: 10 questões;
+           * Direito Administrativo: 05 questões;
+           * Fundamentos de Macroeconomia e Microeconomia: 10 questões.
+           Tecnologia da Informação:
+           * Ciência de Dados: 14 questões;
+           * Segurança da Informação: 07 questões;
+           * Engenharia de Software: 24 questões;
+           * Infraestrutura em TI: 17 questões;
+           * Bancos de Dados: 04 questões;
+           * Gestão em TI: 04 questões.
+           Prova discursiva P3: uma dissertação, a ser respondida em até 40 linhas, com valor de 30,00 pontos, acerca de atualidades;
+           Prova discursiva P4: uma questão dissertativa envolvendo situação-problema, a ser respondida em até 80 linhas, com valor de 50,00 pontos,
+           acerca de conhecimentos específicos do cargo/área.
 
-### Planejamento de Estudos
+
+
+  
+- CNU   -> data: informações:
+- CAIXA -> data: informações:
+- BRB   -> data: informações: ?
+
+
+## Planejamento de Estudos
 
 - 1˚ Foco nas específicas que já conheço(maior peso); Fazer resumos; Fazer questões
 - 2˚ Ver do zero as disciplinas novas específicas que ainda não tive contato e programar esquemas de revisões pra elas
@@ -11,7 +40,10 @@ Aqui é onde eu irei armazenar todos os meus planos de estudos para concursos
 - 4˚ Ler a Lei Seca; Ler letra da lei e fazer questões; Direto na fonte(PDFs e leitura)
 - 5˚ Pomodoro para monitorar o tempo gasto em cada disciplina; Intercalação de materias
 - 6˚ Registrar os acertos e os erros pra cada disciplina
-- 7˚ 
+
+## Concurso CNU
+
+
 
 ### Cargo Escolhido
 
